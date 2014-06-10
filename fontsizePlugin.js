@@ -6,9 +6,9 @@
 (function($) {
 	$.fn.fontsizePlugin = function(set) {
 		var deg={
-				plus:$("#plus"),//varsayilan nesneler
-				minus:$("#minus")
-				};
+			plus:$("#plus"),//varsayilan nesneler
+			minus:$("#minus")
+			};
 					
 		var set = $.extend(deg,set);
 
